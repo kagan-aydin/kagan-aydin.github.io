@@ -189,7 +189,7 @@ $('.typing__module').each(function (index) {
 		stringsElement: self.find('.typed-strings')[0],
 		typeSpeed: 50,
 		backSpeed: 500,
-		backDelay: 2500,
+		backDelay: 5000,
 		fadeOut: true,
 		loop: true
 	},
